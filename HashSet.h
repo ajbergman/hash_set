@@ -1,7 +1,7 @@
 /**
  * A hash set.
  * Stub written by James Daly, 8 Oct 2014
- * Completed by [YOUR NAME]
+ * Completed by Alex Bergman
  */
 #pragma once
 
